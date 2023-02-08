@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602069804 source:d:\ГУАП Материалы Лекций\Информатика(прогр.)\Лаб.раб2\Лаб.Раб.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
